@@ -1,7 +1,11 @@
 site_name: Тренировочный сайт
+site_url: https://ivana-banana.github.io/demo702/
 theme:
-    name: readthedocs
+    name: cinder
     highlightjs: true
     hljs_languages:
         - yaml
         - rust
+nav:
+  - Начальная страница: index.md
+  - Состав команды: about.md
