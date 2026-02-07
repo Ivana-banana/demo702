@@ -1,0 +1,7 @@
+site_name: Тренировочный сайт
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
