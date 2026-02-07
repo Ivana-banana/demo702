@@ -1,0 +1,50 @@
+# MkDocs build output
+site/
+
+# Virtual environment (common names)
+venv/
+env/
+.venv/
+.env/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# OS generated files (Windows-specific)
+~$*
+*.tmp
+*.log
+
+# MkDocs development server cache (if any)
+.cache/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.localК
+
+# Coverage reports (if used)
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# Dependency directories
+node_modules/
+
+# MkDocs plugins cache (optional, if used)
+.mypy_cache/
+.pytest_cache/
